@@ -1,4 +1,4 @@
-#Semantic Segmentation Using Fully Convolutional Networks with added Reconstruction Loss 
+# Semantic Segmentation Using Fully Convolutional Networks with added Reconstruction Loss 
 An attempt to improve the quality of segmentation obtained by the algorithm proposed in [Fully Convolutional Networks for Semantic Segmentation](http://arxiv.org/pdf/1605.06211v1.pdf) (FCNs). 
 
 The implementation is built on top of the base code provided by Sarath Shekkizhar [link](https://github.com/shekkizh/FCN.tensorflow/) 
